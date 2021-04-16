@@ -18,7 +18,7 @@ h1, h2 {
 body {
 background-color: rgb(219, 221, 255); 
  }
-#nome {
+.nome {
     color:black;
     font-style: italic;
     text-align: center;
