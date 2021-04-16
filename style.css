@@ -1,0 +1,58 @@
+h1, h2 {
+    text-align: right;
+    text-decoration: underline;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url(https://www.moma.org/d/assets/W1siZiIsIjIwMjAvMTEvMjMvMXFuZWt5emVoYV9TY3JlZW5fU2hvdF8yMDIwXzExXzIzX2F0XzExLjAzLjMyX0FNXzEucG5nIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMjAwMHgyMDAwXHUwMDNlIl1d/Screen%20Shot%202020-11-23%20at%2011.03.32%20AM%201.png?sha=266ad1b3c92337a3);
+    color: white;
+    border-radius: 4px;
+    margin: 10px;
+}
+#foto {
+    float: right;
+    background-color: white;
+    padding: 6px;
+    border-radius: 16px;
+    margin:0px;
+}
+body {
+background-color: rgb(219, 221, 255); 
+ }
+#nome {
+    color:black;
+    font-style: italic;
+    text-align: center;
+    font-weight: 300;
+    font-family: fantasy, sans-serif;
+}
+#habilidades {
+    font-size: larger;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.tamanholista1 {
+    font-size: smaller;
+}
+.tamanholista2 {
+    font-size: small;
+}
+.tamanholista3 {
+    font-size: normal;
+}
+.tamanholista4 {
+    font-size: large;
+}
+.tamanholista5 {
+    font-size: larger;
+}
+ol {
+    text-align: center;
+    color: black;
+    background-color: #bac1fa;
+    border-radius: 16px;
+    margin-top: 0px;
+}
+ul, #descricao {
+    color:black;
+                border-radius: 16px;
+}
